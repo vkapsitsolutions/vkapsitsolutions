@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to e-meet you.</h1>
 
 
-<p>Welcome to our page! </br> VKAPS IT Solutions Pvt. Ltd., an Enterprise software development company that strives to solve complex programming problems, map out with solutions by Robust, secure, and scalable strategy. With more than 12 years in IT industry, VKAPS is already counting clients across the world with it's footprints in industries like Fintech, FMCG, Education, Real Estate, food delivery & Restaurants, custom workflow aplicatoin and Automation. 
+<p>Welcome to our page! </br> VKAPS IT Solutions Pvt. Ltd., an Enterprise software development company that strives to solve complex programming problems, map out with solutions by Robust, secure, and scalable strategy. With more than 12 years in IT industry, VKAPS is already counting clients across the world with it's major footprints in industries of Fintech, FMCG, Education, Real Estate, food delivery & Restaurants, custom workflow applications and Automation. 
 
-we develop and maintains back-end platforms (that use REST API or SDKs), apps with maps and locations, biometric tech, security apps as per the latest trend in tech-stack utilizing maximum of technical skills of DevOps, CI/CD, Docker, and a variety of external components for clean, portable, well-documented code, code re-usability. We prefer to Agile in our Software development life cycle for a quality delivery to every client.
+we develop and maintains back-end platforms (that use REST API or SDKs), apps with maps, locations, biometric tech, security apps as per the latest trend in tech-stack utilizing maximum of our technical skills with DevOps, CI/CD, Docker, and a variety of external components for clean, portable, well-documented code, code re-usability. We prefer to Agile methodology in our Software development life cycle for quality delivery to every client.
 
-We strongly believe that a client is a client for life, so we always provide extra efforts to every client, which ultimately become our repeat clients which keeps us ahead in the market. currently. 
+We strongly believe that a client is a client for life, so we always provide extra efforts to every client, which ultimately become our repeat clients that keeps us ahead in the market. 
 
 </p>
 <h3>Our prefered codebase includes </h3>
