@@ -39,6 +39,7 @@ We strongly believe that a client is a client for life, so we always provide ext
 <a href="https://www.linkedin.com/company/1912704/admin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://clutch.co/profile/vkaps-it-solutions?page=1#review-1410582" target="_blank"><img alt="LinkedIn" src="https://www.infocentroid.com/wp-content/uploads/2021/07/Clutch-logo-002.jpg" width="60" /></a>
   <a href="https://www.behance.net/vkapsitsolutions" target="_blank"><img alt="LinkedIn" src="https://seeklogo.com/images/B/behance-icon-logo-E2F066C7C9-seeklogo.com.png" width="30" /></a>
+  <a href="https://www.glassdoor.co.in/Reviews/Vkaps-IT-Solutions-Reviews-E3073808.htm" target="_blank"><img alt="LinkedIn" src="https://www.hrzone.com/sites/default/files/glassdoor-logo.jpg" width="90" /></a>
 
 
 ------------
